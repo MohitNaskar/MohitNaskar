@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Naskar</h1>
 <h3 align="center">A passionate Machine learning(python) and Java developer from India</h3>
 
-- 🔭 I’m currently working on [recommendation system](https://github.com/MohitNaskar/Recommendation_System-sentiment-analized-Using-Pearson-s-Threshold-.git)
+- 🔭 I’m currently working on a internal social media application for my company which includes Java sping for back end.
 
 - 🌱 I’m currently learning **Java framework and Natural Language Processing**
 
