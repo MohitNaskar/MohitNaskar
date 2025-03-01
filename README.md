@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a internal social media application for my company which includes Java sping for back end.
 
-- 🌱 I’m currently learning **Java framework and Natural Language Processing**
+- 🌱 I’m currently learning **Java framework and Algorithms for Machine Learnings**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohitNaskar](https://github.com/MohitNaskar)
 
